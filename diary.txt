@@ -1,0 +1,510 @@
+>http://www.cloudera.com/content/cloudera/en/resources/library/training/intorduction-hbase-todd-lipcon.html
+
+Louisiana site
+
+http://doa.louisiana.gov/osr/lac/books.htm
+
+Kentucky
+http://www.lrc.ky.gov/kar/frntpage.htm
+http://www.lrc.ky.gov/kar/titles.htm
+
+Looks like these are "laws"
+http://www.lrc.ky.gov/statutes/chapter.aspx?id=37744
+
+
+-------------mapreduce
+
+reduce phase --- aggregation
+
+
+HFS --- Hadoop Distributed File System.
+
+
+Using Hadoop with Lucene (apache Blur).
+
+http://blog.cloudera.com/blog/2013/07/the-blur-project-marrying-hadoop-with-lucene/
+
+Cloudera and search.
+
+http://www.theregister.co.uk/2013/06/04/cloudera_hadoop_solr_search/
+
+What is Zookeeper, Thrift??
+
+
+------------ cloudera image
+
+admin -- admin is logon
+
+amb  -- julyfourth for HUE
+
+AWS console. --https:// console.aws.amazon.com/ ec2/.
+
+http://www.ibm.com/developerworks/data/library/techarticle/dm-1209hadoopbigdata/
+
+------------------------ Sept 11
+
+
+AWS console. --https:// console.aws.amazon.com/ ec2/.
+dashboard (for launching instances).
+
+df -h  -- disk free
+
+---------------------- Sept 12
+Cloudera image
+
+-------------------------
+Titles
+  Subtitles <SUBTITL>
+   Chapters  <CHAPTER>
+    Subchapters <SUBCHAP>
+      Parts    <PART>
+       Subparts
+         Section <SECTION>
+      
+
+----------------------- sept 25
+CFR stff
+
+http://www.gpo.gov/fdsysinfo/aboutfdsys.htm 
+   GPO's Federal Digital System.
+
+mods in download ????
+
+http://www.loc.gov/standards/mods/v3/mods-3-3.xsd
+
+Xlink stuff ??
+
+http://www.loc.gov/standards/xlink/xlink.xsd
+
+Authenticity Metadata
+
+http://www.gpo.gov/fdsys/pkg/CFR-2012-title49-vol1/premis.xml
+
+----------------installing NEXUS
+
+Hooking up nexus for andriod debugging.
+
+http://zacktutorials.blogspot.com/2012/08/nexus7-android-development.html
+
+----------------------------------------- sept 27 ---------------------------------------
+
+Special Characters 0xc2
+                   0xa7
+Looking
+ <EXTRACT>
+  <FP SOURCE="
+
+final rules
+
+https://www.federalregister.gov/articles/search?conditions[type]=RULE&order=newest
+
+Parts affected in FR.
+
+http://www.gpo.gov/fdsys/browse/collectionCfrFR.action?collectionCode=CFRPARTS&browsePath=40&selectedPublicationDate=Last+24+Hours&selectedMonthFrom=&selectedDateFrom=&selectedYearFrom=&selectedMonthTo=&selectedDateTo=&selectedYearTo=&dispatch=submit&datefql=publishdate%3Arange%282013-09-30%2C2013-10-01%29&isCollapsed=false&leafLevelBrowse=false&ycord=320
+
+
+Federal Register
+http://www.gpo.gov/fdsys/browse/collectionCfr.action?collectionCode=CFR&searchPath=Title+49&oldPath=Title+5&isCollapsed=true&selectedYearFrom=2012&ycord=3343
+
+---Coursera course
+
+https://class.coursera.org/progfun-003/class/indexhttps://class.coursera.org/progfun-003/class/index
+
+-------- HBASE tutorial
+
+--------
+
+--- Oct 3
+
+
+----------- fowler lecture ---------------------------
+Column family
+   bigtable --
+  cassandra
+
+------------- HDFS
+
+Gen 2 namenode --- Active Passive
+
+Rack away.
+
+-------------------------------------------------------
+installing hadoop linux (ubuntu)
+
+what are these apt-get commands
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install openjdk-6-jdk
+sudo add-apt-repository ppa:gasol-wu/oneiric
+sudo apt-get update
+sudo apt-get install solr-jetty
+
+--------------------------
+Apache HBASE Quick start
+
+http://hbase.apache.org/book/quickstart.html
+
+running solr jetty
+
+http://wiki.apache.org/solr/SolrJetty#Running_single_instance
+
+
+http://www.smartlogic.com/home/products/semaphore-solutions/apache-solr/solr-overview
+
+-=----------------
+http://www.smartlogic.com/home/products/semaphore-solutions/apache-solr/solr-overview
+Installing SOLR
+
+
+using jetty with SOLR
+http://wiki.apache.org/solr/SolrJetty#Running_single_instance
+
+
+----------- OPEN GIS MySQL ---------------
+
+http://dev.mysql.com/doc/refman/5.0/en/opengis-geometry-model.html
+
+-------------
+SOLR Multicore
+http://hawkins.io/2011/02/ubuntu_jetty_solr_and_multicore/
+
+Great tutorials
+
+http://www.vogella.com/
+
+-----------------------------------------------
+Apache Solr tutorial
+
+http://wiki.bitnami.com/Components/Apache_Solr
+
+Amazon bitnami SOLR instance.
+https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances:
+
+bitnami@ec2-50-17-157-44.compute-1.amazonaws.com
+private key = amazonsolr
+
+Amazon Elastic Mapreduce.
+http://docs.aws.amazon.com/ElasticMapReduce/2009-03-31/DeveloperGuide/emr-get-started-count-words.html
+
+---------------------------------------
+Yet another Hadoop sandbox
+
+http://hortonworks.com/products/hortonworks-sandbox/
+
+-------------------------------------------------
+Apache Solr
+https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#KeyPairs:
+
+--------------------------------------------------
+
+GIT cheatsheet
+
+https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf
+
+
+-------------------- SOLR --- spatial ----------------------
+
+http://www.youtube.com/watch?v=L2cUGv0Rebs
+
+
+-------------------------------------------------------------
+
+http://sourceforge.net/projects/xming/files/latest/download
+
+How to use tunnels
+http://wiki.bitnami.com/BitNami_Cloud_Hosting/Servers/SSH#How_to_connect_to_my_server
+
+------------------ X11 server for windows 
+
+----------------- TRAMP for moving files around ---------------------------
+
+
+--------------------MAPREDUCE TUTORIAL ------------------------------------------
+
+http://blog.cloudera.com/blog/2013/08/how-to-use-eclipse-with-mapreduce-in-clouderas-quickstart-vm/
+
+
+SOLR scaling out http://wiki.apache.org/solr/SolrCloud
+
+- and on AWS
+http://harish11g.blogspot.in/2013/03/Introduction-Apache-Solrcloud-on-Amazon-EC2-AWS.html
+
+[8:21:43 AM] mike ballantyne: http://www.mediaite.com/tv/jon-stewart-reams-obama-for-total-ignorance-of-what-white-house-is-actually-up-to/
+[8:52:44 AM] mike ballantyne: Here is what SOLR does to scale out on the cloud
+[8:52:49 AM] mike ballantyne: http://wiki.apache.org/solr/SolrCloud
+[8:53:23 AM] mike ballantyne: Here is is on AWS
+[8:54:09 AM] mike ballantyne: http://harish11g.blogspot.in/2013/03/Introduction-Apache-Solrcloud-on-Amazon-EC2-AWS.html
+[8:55:12 AM] mike ballantyne: A comparison of Amazon Cloudsearch and SolrCloud
+[8:57:25 AM] mike ballantyne: Cloudsearch uses the Amazon A9 technology
+
+
+[10/28/2013 8:17:24 PM] mike ballantyne: wasting lots of time with SOLR--turns out the standard Apache SOLR will NOT index plain text without some help. Here is a company (We have already seen) with a better SOLR and a bunch of tools.
+[10/28/2013 8:17:47 PM] Vasu Vijay: hmmmm
+[10/28/2013 8:18:18 PM] mike ballantyne: http://www.lucidworks.com/marketplace/
+[10/28/2013 8:24:38 PM] mike ballantyne: http://www.lucidworks.com/management/
+[10/28/2013 8:25:22 PM] mike ballantyne: The fellow Grant INgersoll is the author of an interesting book I was looking at earlier at Amazon (Taming Text). I think I will buy it for us.
+[10/28/2013 8:25:42 PM] Vasu Vijay: Taming text is a provocative title
+[10/28/2013 8:26:24 PM] mike ballantyne: http://www.amazon.com/Taming-Text-Find-Organize-Manipulate/dp/193398838X/ref=sr_1_1?ie=UTF8&qid=1383009950&sr=8-1&keywords=taming+text
+[10/28/2013 8:28:34 PM] mike ballantyne: Interesting --- also founder of Mahout
+[10/28/2013 8:28:49 PM] mike ballantyne: Other fellow is founder of OpenNLP which I had never heard of before.
+[10/28/2013 8:28:54 PM] mike ballantyne: http://opennlp.apache.org/
+[10/28/2013 8:29:32 PM] Vasu Vijay: Wow - mahout is the name for the guy who rides the elephant and trains it and basically is the elephant's master
+[10/28/2013 8:29:48 PM] mike ballantyne: Yep -- there was a picture of an elephant.\
+[10/28/2013 8:32:59 PM] mike ballantyne: I ordered these books --- you get a free pdf with them.
+[10/28/2013 8:34:40 PM] Vasu Vijay: So - taming text is like taming an elephant !!
+[10/28/2013 8:35:06 PM] Vasu Vijay: Elephants are big...but so mild mannered....unless in heat or if they are mad
+
+
+Eprobito password.
+amby4eprobito
+user name 
+amb4
+------------------------------------------------------
+lucidworks
+
+------------ SOLR TUTORIAL SCHEMA -----------------------
+Another SOLR indexing tutorial
+http://www.slideshare.net/LucidImagination/indexing-text-and-html-files-with-solr-4063407
+
+https://cwiki.apache.org/confluence/display/solr/Documents,+Fields,+and+Schema+Design
+
+remember- CFR's in c:\amb\cfr
+
+------------------------------- curl -----------------------------------
+
+
+~\lucidworks\lucidworkssearch\data\logs\
+
+
+--------------------intermittent fasting -------------------------------
+
+
+http://www.artofmanliness.com/2012/01/25/intermittent-fasting/
+
+
+------------------- best list of free windows software ---------------
+
+http://www.techsupportalert.com/
+
+-----------------  Java tutorials ---------------------------------------
+
+http://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html
+
+
+Lift-scala and Django -- python
+
+
+----------------------------------
+
+-------------------------  GIS tutorials and open source --------------------------------
+
+http://www.gsd.harvard.edu/gis/manual/software/index.htm
+http://gis.stackexchange.com/questions/25956/where-can-i-find-the-finest-granularity-of-2010-us-census-population-information
+http://gis.stackexchange.com/search?q=mysql
+http://www.census.gov/cgi-bin/geo/shapefiles2010/main
+http://postgis.net/
+
+
+Jrebel ???
+http://zeroturnaround.com/software/jrebel/
+
+
+------------------ TAURINE
+
+---------------------- MAHOUT ----------------------
+
+http://www.youtube.com/watch?v=DNUliYXrSZo
+
+
+ ----------------- Grant Ingersoll ---------------------------------
+http://www.slideshare.net/lucenerevolution/ingersoll-keynotebigdata-eurocon2011
+http://www.slideshare.net/gsingers/bet-you-didnt-know-lucene-can
+
+Brahmi
+
+http://www.ncbi.nlm.nih.gov/pubmed/18683852
+
+------------------ SOCIOPATH -------------------------------------
+
+----------------NEW YAHOO EMAIL
+July44th
+
+-------------------- OPEN SOURCE MAPS --------------
+
+http://www.openstreetmap.org/#map=11/30.2736/-97.5946
+
+http://www.resmap.com/index.html
+
+https://www.mapbox.com/blog/open-aerial/
+
+http://www.ppgis.net/imagery.htm
+
+------------------- Advantage Insurance -----------------
+
+
+““Once insurance companies began disingenuously offering plans that they knew they would be canceling it became clear that more people would be getting cancellation letters,” Weiner said.”
+
+It would be interesting to know if that’s even the truth. My Medicare Advantage plan has been cancelled, but it’s been a relatively stable product for the EIGHT YEARS that I have had it.
+BTW, I’ve just obtained much better insurance through AMAC, and the time their people took to enroll my wife and I was as professional as it could have been. Everybody needs to join AMAC. At Sixteen bucks a year, it’s a bargain!
+
+
+
+postgre
+july44th
+
+OSGeos
+
+CREATE EXTENSION
+postgres=# create extension postgis_topology;
+CREATE EXTENSION
+postgres=# select postgis_full_version();
+
+tgis_full_version
+
+  schemas 
+  create schema 
+
+localhost 5432
+postgres
+july44th
+
+GIS databases have "geometry_columns"
+
+Should create schemas and organize tables around them
+
+http://workshops.boundlessgeo.com/postgis-intro/creating_db.html
+
+
+------------- SOLR notes ----------------- 12/3
+
+SolrRequestHandlers
+
+  StandardRequestHandler
+
+--------OPENNLP-----------------------------
+Categories
+  People
+  locations
+  Organization
+  Times
+  Percentages
+  Money
+
+
+-------------------- http://www.ibm.com/developerworks/java/library/j-mahout
+
+Collaborative Filtering
+  user-based
+  item-based
+  slope-one
+  model-based
+
+Andrew Ng's machine learning course
+    http://see.stanford.edu/see/lecturelist.aspx?coll=348ca38a-3a6d-4052-937d-cb017338d7b1
+
+Stanford engineering course --- see for credit
+  http://see.stanford.edu/see/courses.aspx
+
+
+http://www.ibm.com/developerworks/java/library/j-mahout-scaling/
+
+http://www.freebase.com/music
+
+http://www.ibm.com/developerworks/library/j-mahout/#resources
+
+-----------------------------------------------
+MOBILE FRAMEWORKS
+
+http://www.gajotres.net/in-depth-review-of-phonejs-html5-javascript-framework/
+http://www.codeproject.com/Articles/633706/PhoneJS-HTML5-JavaScript-Mobile-Development-Framew
+
+http://www.codeproject.com/Articles/388811/An-introduction-to-cross-platform-mobile-developme
+
+http://en.wikipedia.org/wiki/Sencha_Touch
+
+http://sixrevisions.com/web-applications/building-mobile-web-apps-the-right-way-tips-and-techniques/
+
+http://propertycross.com/
+
+Xamarin
+
+http://www.whitneyland.com/2013/05/why-i-dont-recommend-xamarin-for-mobile-development.html
+
+http://www.gajotres.net/top-7-notable-less-known-mobile-html5-frameworks/ -- has embedded phonejs tutorial
+
+
+---------------------MOOCS  Udacity, Coursera etc --------------------------------------
+http://moreorlessbunk.wordpress.com/2013/09/06/why-coursera-and-udacity-are-the-worst-things-that-ever-happened-to-moocs/
+
+http://listedtech.com/content/moocs-coursera-edx-futurelearn-and-udacity-university-profiles
+
+.uhttp://listedtech.com/content/world-map-learning-management-systems
+
+ (what LMS do the MOOC institutions use??)
+
+
+http://us.mediaplanet.com/online-education/a-new-breed-of-moocs
+------------- UDACITY PASSWORD --------------------
+udacity1
+
+-----------------------------------------------------
+Neuric password" July fourth 44@"
+
+-------------------------------
+pps\gatling-charts-highcharts-2.0.0-M3a\user-files\simulations\
+
+-------------- scala course -----------------------
+def foo(x:Int, y =>Int)  == call by value, call by name
+
+def and(x:Boolean, y:=>Boolean)
+
+
+------------------------------------
+http://factfinder2.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t
+
+
+------------------------------------------------------------------------
+
+App
+
+URL:                 https://github.com
+
+Username:      Neuricllc
+
+Password:        Ashes2Dust
+
+------------- Twitter Password------------------------------
+Twitter44@
+
+@mikeballantyne1
+
+================ git and github ---------------------
+
+https://help.github.com/articles/set-up-git#platform-windows
+
+github.com/mikeballantyne
+
+git config -l = shows all settings
+
+git config --global alias.foobar 'the git command here'
+
+---------------------------------------------------
+
+Javascript to create a new window.
+
+http://www.pageresource.com/jscript/jwinopen.htm
+
+Treemap and other jquery stuff
+
+http://www.jqwidgets.com/
+
+iconic mobile 
+
+using phonegap and jquerymobile
+http://demos.jquerymobile.com/1.1.0/docs/pages/phonegap.html
+
+jquery and phonegap
+http://www.mobiledevelopersolutions.com/home/start/twominutetutorials/tmt0
+
+Physicians Mutual
+015 847 140
